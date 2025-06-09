@@ -40,7 +40,7 @@ Tumult Hype Professional is available as an in-app purchase and adds many powerf
 
 ### Tumult Hype Professional Interface
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/overview-prolayout@2x.jpg" width="758" height="553" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/overview-prolayout@2x.jpg" width="758" alt=""/>
 
 This user guide walks you through the entire product and gives in-depth details on the workings of both Tumult Hype and Tumult Hype Professional. To help distinguish between Standard and Professional features, all documentation chapters or sections covering Professional features begin with the following label:
 
@@ -51,7 +51,7 @@ Any chapters or sections without this label cover features available in both Tum
 ## The Tumult Hype Interface
 
 <a href="https://tumult.com/hype/documentation/v4/documents/InterfaceOverview.html" target="_blank">
-	<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/InterfaceOverview@2x.png" width="669" height="524" alt=""/>
+	<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/InterfaceOverview@2x.png" width="669" alt=""/>
 </a>
 
 Tumult Hype also provides numerous inspectors for manipulating the document, scenes and elements. These are discussed in depth in the [Inspectors](#inspectors) chapter.
@@ -61,7 +61,7 @@ Tumult Hype also provides numerous inspectors for manipulating the document, sce
 
 One features unlocked by the Tumult Hype Professional in-app purchase is a customizable user interface.  Click and drag the customizable view handles on the Inspector, Scene and Layouts selector, or the Timeline to arrange Tumult Hype's as you see fit.
 
-<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/overview-interface-drag@2x.png" width="674" height="212" alt=""/>
+<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/overview-interface-drag@2x.png" width="674" alt=""/>
 
 ##### The Customizable View Handle
 
@@ -138,7 +138,7 @@ Tumult Hype’s Scene Selector – toggled by the Show Scenes toolbar button –
 By default, all scenes in a document have the same size, and choosing a different default size or changing the Width or Height values affects all scenes. To change the size of just the current scene, disable "Apply changes to all scenes" in the Scene inspector.
 
  
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ScenesSceneSizePro@2x.png" width="289" height="298" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ScenesSceneSizePro@2x.png" width="289" alt=""/>
   
 ##### Scene Size Controls (Scene Inspector)
  
@@ -166,7 +166,7 @@ Manual guides can be added to the scene by choosing View > Guides > Add Horizont
 
 One very powerful feature in the View > Guides menu is the Add Multiple Guides command. Choosing this command reveals a dialog from which any number of evenly-spaced guides can be created. Specify either the number of columns or rows to be created, or the pixel distance between each guide. Layout Guides make arranging content in columns or rows a snap.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ScenesLayoutGuides@2x.jpg" width="412" height="160" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ScenesLayoutGuides@2x.jpg" width="412" alt=""/>
 
 ##### Layout Guides Dialog 
   
@@ -179,7 +179,7 @@ To help you arrange your content, Hype Pro supports layout grids. Hype Pro's lay
 
 To create a layout grid, choose View > Layout Grid > Create Grid. In the Layout Grid Editor, you'll find controls to set the width of the layout grid, define the number of columns, and set the gutter width between each column.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scene-layoutgrid@2x.png" width="368" height="173" alt=""/> 
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scene-layoutgrid@2x.png" width="368" alt=""/> 
 
 Clicking Create Grid adds an overlay to the current scene that defines the grid's columns and gutters. Elements snap to the grid, making it easy to arrange your content against the grid. As with user guides and smart guides, element snapping can be temporarily disabled by pressing the Command key while dragging. Likewise, snapping can be permanently disabled by disabling the Arrange > Snap Elements menu item. If you want to use a grid to arrange elements but don't want the overlay, choose Arrange > Layout Grid > Hide Grid; reveal the grid by then choosing Arrange > Layout Grid > Show Grid.
 
@@ -213,7 +213,7 @@ To convert an image to a Vector Shape with adjustable corner points, select the 
 
 For tips and tricks regarding SVG files, please [visit our forums](https://forums.tumult.com/tags/svg?order=views).
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsMetricsSizing@2x.png" width="299" height="136" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsMetricsSizing@2x.png" width="299" alt=""/>
 
 ##### Proportion and Sizing Options (Metrics Inspector)
 
@@ -223,7 +223,7 @@ Newly created image elements scale the image as the element is resized. If you n
 
 **Retina Support & Image Optimization**: Tumult Hype automatically optimizes images during export; images are converted to formats supported on the web and resized for optimum support on "retina" or high DPI screens. For more information, read the [Image Optimization](#image-optimization) section of the [Previewing & Exporting chapter](#preview-amp-export).
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsImageElementBackground@2x.png" width="271" height="186" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsImageElementBackground@2x.png" width="271" alt=""/>
 
 
 ##### Background Property (Element Inspector)
@@ -270,7 +270,7 @@ You may quickly add a Rectangle, Rounded Rectangle, or an Ellipse from the Eleme
 
 Add shapes to your scene by selecting Insert > Shape, or by using the Elements toolbar button.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsDefaultShapes@2x.png" width="555" height="195" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsDefaultShapes@2x.png" width="555" alt=""/>
 
 ##### Default shapes  
 
@@ -284,7 +284,7 @@ Buttons are elements which present different appearances when the mouse hovers o
 
 When button elements are selected, Tumult Hype shows a segmented control above the element to toggle between the button’s normal, hover, and pressed states. When the hover or pressed states are active, any changes made to the button — including position, size, and background images or gradients — will be applied when the element is hovered over or clicked. To clear the changes made in those states, choose Edit > Clear All Button States.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/buttonStates@2x.png" width="163" height="72" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/buttonStates@2x.png" width="163" alt=""/>
 
 ##### Button Controls
 
@@ -300,14 +300,14 @@ To add a Twitter widget, for example:
 3. Click the Edit Code Snippet button
 4. Paste code obtained from [Twitter’s developer site](https://dev.twitter.com/) into the Inner HTML popover as shown below.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsHTMLWidget@2x.jpg" width="480" height="635" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsHTMLWidget@2x.jpg" width="480" alt=""/>
 
 ##### An HTML widget containing Twitter Widget Code
 
 
 To display a webpage within the HTML widget, select Specified URL and enter the full URL (make sure to include `http://` or `https://` &mdash; `https://` is preferred).
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsHTMLWidgetSourceURL@2x.png" width="272" height="214" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsHTMLWidgetSourceURL@2x.png" width="272" alt=""/>
 
 ##### Display a Web Page within an HTML widget  
 
@@ -322,11 +322,11 @@ Elements are rearranged and resized using Tumult Hype’s scene editor. To assis
 ### Rotation
 
 
-To rotate elements along the Z-axis, select the elements and hold the <kbd>command</kbd> key while hovering just outside of the element bounds. The <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsRotateCursor.png" width="20" height="20"> cursor indicates the selected element can be rotated. The Metrics inspector also has controls for rotating elements along the X-, Y-, and Z-axis.
+To rotate elements along the Z-axis, select the elements and hold the <kbd>command</kbd> key while hovering just outside of the element bounds. The <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elementsRotateCursor.png" width="20"> cursor indicates the selected element can be rotated. The Metrics inspector also has controls for rotating elements along the X-, Y-, and Z-axis.
 
 An element’s anchor point sets the element’s Z-axis rotation origin. To move a selected element’s anchor point, press Command to reveal the anchor point crosshair icon <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnchorPoint.gif" width="15px" /> and then drag the icon to a new location. The Metrics inspector offers control over the anchor point location in the Rotation Origin section.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elements-rotation-z@2x.png" width="237" height="250" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elements-rotation-z@2x.png" width="237" alt=""/>
 
 ##### Element with Z-axis rotation animation and a custom anchor point   
 
@@ -338,13 +338,13 @@ Multiple elements can be moved, rotated, or resized by first drag-selecting elem
 
 To pick a color for a selected element, click on the color well in the appropriate inspector. Tumult Hype uses the Standard Mac OS color picker, with the addition of an Opacity slider and hexadecimal/RGBa field. When reducing opacity below 100%, the hexadecimal field automatically converts to the RGBa equivalent.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsColorPickerSidebySide@2x.png" width="560" height="520" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsColorPickerSidebySide@2x.png" width="560" alt=""/>
 
 Both the hexadecimal and rgba fields are editable and selectable for copying and pasting from other applications.
 
 **Gradients**: To use a gradient as an Element background, select the Fill Style dropdown in the Element Inspector and select Gradient. Rotate your element gradient by adjusting the rotation angle value.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsColorGradient@2x.gif" width="269" height="149" alt="Tumult Hype Gradient"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsColorGradient@2x.gif" width="269" alt="Tumult Hype Gradient"/>
 
 <aside ="notice">
 For more information about modifying the visibility of elements, read the [Hiding and Locking Elements](#hiding-and-locking-elements) section.
@@ -360,11 +360,11 @@ Shadows may be added to any type of element from the Element Inspector. The thre
 
 When adjusting a shadow, you define the X and Y offset for the shadow's position, the blur in pixels for the shadow, and the color of the shadow itself.  
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/shadow-inspector@2x.png" width="270" height="118" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/shadow-inspector@2x.png" width="270" alt=""/>
 
 Drop Shadows provide the most natural shadows for elements, as they not only the outer edges of elements, but also the transparent portions of transparent PNGs and GIFs. Combining multiple shapes into a single group and applying a drop shadow to the group will create a single seamless drop shadow for those elements: 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/element-group-shadow@2x.png" width="236" height="226" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/element-group-shadow@2x.png" width="236" alt=""/>
 
 Text Shadows may be added from either the Text Inspector or from the Element Inspector. 
 
@@ -374,7 +374,7 @@ Scale an element or a group by first making a selection, and holding Command whi
 
 To scale an element in response to the width of a layout, please see the [Flexible Layout](#flexible-layout) and [Responsive Layouts](#responsive-layouts) chapters. Scaling is a great technique to pair with [Symbols](#symbols) used across layouts.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsScale@2x.png" width="280" height="98" alt="Element Scaling"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsScale@2x.png" width="280" alt="Element Scaling"/>
 
 ##### Scaling options in the Metrics Inspector
 
@@ -389,7 +389,7 @@ To scale an element in response to the width of a layout, please see the [Flexib
 2. Next, select elements on your scene and add them to a group.
 3. With your group selected, switch to the Metrics inspector and select the horizontal and vertical scaling arrows. Next, deselect any pins, and set the scaling behavior to 'Shrink to Fit' or 'Expand to Fill'. Also, select 'Zoom Contents.'
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsScaleZoom@2x.gif" width="270" height="186" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsScaleZoom@2x.gif" width="270" alt=""/>
 
 ##### Scale options for scaling<br> elements proportionally
 
@@ -420,7 +420,7 @@ The Arrange menu provides several different commands for arranging, distributing
 - Size > Make Same Height
 - Size > Make Same Size
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsOrderingToolbar@2x.png" width="164" height="55" alt="Ordering Elements Toolbar"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsOrderingToolbar@2x.png" width="164" alt="Ordering Elements Toolbar"/>
 
 ##### Ordering Toolbar Items
 
@@ -435,14 +435,14 @@ Like every property, both foreground and backdrop filter effects may be animated
 
 CSS filter effects apply adjustments to any elements using properties you may be familiar with from image editing software:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elements-CSSFilters@2x.png" width="271" height="252" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/elements-CSSFilters@2x.png" width="271" alt=""/>
 
 
 ##### Element Inspector: CSS Filter Effects
 
 Below are a few different filter effects applied to the same image:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsCSSFiltersExample@2x.jpg" width="600" height="410" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsCSSFiltersExample@2x.jpg" width="600" alt=""/>
 
 ##### CSS Filter Effects Example
 
@@ -455,11 +455,11 @@ Below are a few different filter effects applied to the same image:
 
 When applying **Backdrop** filter effects to an element, a portion of the element underneath must be visible. To add transparency, use the color picker's opacity slider:  
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsColorPicker@2x.png" width="272" height="522" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsColorPicker@2x.png" width="272" alt=""/>
 
 Backdrop effects are great for blurring background images to ensure foreground content jumps out:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsCSSFiltersBackdrop@2x.png" width="475" height="320" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsCSSFiltersBackdrop@2x.png" width="475" alt=""/>
 
 ##### CSS Filter Effects Example (Backdrop)
 
@@ -477,7 +477,7 @@ Elements at the top of the layer order receive touch and mouse actions. To pass 
 
 The Identity inspector provides access to element properties such as a modifiable element DOM ID, class name, the display name used within Tumult Hype, accessibility options, and more:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/element-inspector-identity-button-example@2x.png" width="269" height="588" alt="Identity Inspector"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/element-inspector-identity-button-example@2x.png" width="269" alt="Identity Inspector"/>
 
 ##### The Identity inspector for a selected button  
 
@@ -485,7 +485,7 @@ The Identity inspector provides access to element properties such as a modifiabl
 
 Elements are, at their base, HTML divs. Because of this, they can contain arbitrary HTML. Edit any element’s inner HTML of any element by choosing Edit > Edit Element’s Inner HTML. This is useful for pasting your own custom HTML or CSS, or for tweaking text displayed in elements. Keep in mind that if recording is turned on, modifications to an element’s inner HTML will be animated.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsInnerHTML@2x.png" width="352" height="312" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsInnerHTML@2x.png" width="352" alt=""/>
 
 ##### Editing the Inner HTML of a Text Box  
 
@@ -496,13 +496,13 @@ Elements are, at their base, HTML divs. Because of this, they can contain arbitr
 
 Elements can be grouped by selecting one or more elements, then clicking the Group toolbar button. Grouped items appear indented under their group’s name in the Element List. Clever uses of grouping include [enables cropping or masking, rotation from a specified point, and rotation on multiple axes](https://forums.tumult.com/t/masking-elements-by-using-content-overflow-groups/1342).
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Elementsgrouping.png" width="94" height="53" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Elementsgrouping.png" width="94" alt=""/>
 
 ##### Grouping Toolbar Items   
 
 Elements can be dragged in or out of groups by rearranging elements in the Element List. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsGroupedElements@2x.png" width="272" height="164" alt=""/>  
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsGroupedElements@2x.png" width="272" alt=""/>  
 
 ##### A Group in the Element List  
 
@@ -533,7 +533,7 @@ Elements locked from the lock button in the element list cannot be selected or m
 
 Both individual elements and groups can be locked or hidden. Any adjustment to locking or visibility on a group affects the state of elements within it.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsHidingLocking@2x.png" width="272" height="161" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsHidingLocking@2x.png" width="272" alt=""/>
 
 ##### Hidden, Locked, and Unlocked + Visible elements.
 
@@ -549,7 +549,7 @@ To change the opacity, (also known as the transparency) of an element, adjust th
 
 To adjust the opacity of a color used in your document, adjust the opacity slider in when using the color picker.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsManipulateDisplay@2x.jpg" width="411" height="276" alt="Hidden element"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementsManipulateDisplay@2x.jpg" width="411" alt="Hidden element"/>
 
 ##### An element that becomes hidden in a Timeline
 
@@ -572,7 +572,7 @@ Tumult Hype's sprite sheet tool creates a frame animation on your scene based on
 
 Use any of the following source files to generate a sprite sheet: a numbered (or alphanumeric) sequence of images, a grid of images arranged from top left to bottom right, or an animated GIF. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SpriteFileTypes.jpg" width="1300" height="395" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SpriteFileTypes.jpg" width="1300" alt=""/>
 
 #####  Sprite sheet source options: 1) A sequence of images 2) A sprite sheet in a grid or 3) An animated GIF
 
@@ -588,11 +588,11 @@ After clicking Open in the file dialogue, the Sprite Sheet is loaded into an edi
 
 <aside class="notice">Reduce the image dimensions of your images prior to import for best performance. For retina device support, your sprite sheet source files should be twice the resolution at which they are displayed.</aside>
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SpriteSheetImportScreen.png" width="927" height="624" alt="Importing an image sequence as a Sprite Sheet"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SpriteSheetImportScreen.png" width="927" alt="Importing an image sequence as a Sprite Sheet"/>
 
 **From a Pre-Existing Sprite Sheet**
 
-You may import from a pre-existing sprite sheet to import the animation sequence into Hype. A sprite sheet consists of a grid of images arranged with the first image at the top left corner, and the last in the bottom right corner. Each frame within the image should be the same size. <img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Sprite-smoke.gif" width="200" height="200" alt=""/> In [this example](https://opengameart.org/content/smoke-aura) on OpenGameArt.org, smoke swirls over 30 individual frames (shown on the right). Since the <a href="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SpriteSmoke30Frames.png">original image</a> is a transparent PNG, it will not block anything at a lower layer order in Hype.  
+You may import from a pre-existing sprite sheet to import the animation sequence into Hype. A sprite sheet consists of a grid of images arranged with the first image at the top left corner, and the last in the bottom right corner. Each frame within the image should be the same size. <img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Sprite-smoke.gif" width="200" alt=""/> In [this example](https://opengameart.org/content/smoke-aura) on OpenGameArt.org, smoke swirls over 30 individual frames (shown on the right). Since the <a href="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SpriteSmoke30Frames.png">original image</a> is a transparent PNG, it will not block anything at a lower layer order in Hype.  
 
 To create a sprite sheet from a single image, select Insert > Sprite Sheet... and select the image. Modify the rows and columns to match the layout of the sprite sheet, and optionally adjust the margins, spacing, or padding as needed. 
 
@@ -604,7 +604,7 @@ When using an animated GIF as your source for a sprite sheet, each individual fr
 
 After importing a sprite sheet, you may edit it by selecting the Sprite Sheet and clicking Edit Sprite Sheet... in the Element Inspector. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Sprite-Editor@2x.jpg" width="827" height="472" alt=""/> 
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Sprite-Editor@2x.jpg" width="827" alt=""/> 
 
 - **Sprites**: Set the slice layout of the sprite sheet by setting the number of rows (horizontal) and columns (vertical). This calculates the total number of frames and should add up to the number of images selected in the file picker. If the sprite sheet is prebuilt as a single image, you'll need to manually line this up to match your individual frames.
 - **Sheet Margins**: If your imported images or sprite sheets have unused image data around the outside margins of the exported sheet, this will help you remove them. 
@@ -620,7 +620,7 @@ By default, Sprite Sheets start at 0 seconds on the timeline where they are inse
 * Continue Sprite Sheet 
 * Go to Time in Sprite Sheet, shown in: Minutes, Seconds, Frames (30 frames per second).
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Sprite-Sheet-Action@2x.png" width="910" height="271" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Sprite-Sheet-Action@2x.png" width="910" alt=""/>
 
 ---
 
@@ -633,7 +633,7 @@ Use Tumult Hype's Vector shape tool to create shapes consisting of points connec
 Vector graphics use the scalable vector graphics ([SVG](https://www.w3.org/TR/SVG11/styling.html) format. SVGs are built as an XML file consisting of lines, paths, stroke, Bézier curves, and much more. This format is output as code, and downloads much quicker than bitmap images. 
 
 Tumult Hype provides a user interface for creating SVG objects integrates the format into a powerful animation system. Vector shapes in Tumult Hype are easy to modify and work with: modify points and curves, adjust positioning, resize and scale your shapes directly on Hype’s scene. 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vectors-open-closed@2x.png" width="300" height="201" alt="Open and Closed Vectors"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vectors-open-closed@2x.png" width="300" alt="Open and Closed Vectors"/>
 
 ##### Open and Closed Vector shapes
 
@@ -651,7 +651,7 @@ Vector shapes consist of anchor points and control points. Anchor points define 
 
 ## Creating Vectors 
 
-Create a vector shape by choosing the Insert > Vector menu item, by using the Elements toolbar button, or pressing <kbd>v</kbd>. Your cursor will change to the pen tool: <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeAdd@2x.png" width="15" height="21" alt="VectorShapeAdd Cursor"/>. Clicking and dragging will start a curve, and single clicking will create an individual point. To exit vector mode and finish your shape, either click on your initial point to create a close shape, press <kbd>esc</kbd>, <kbd>enter</kbd> or click 'Done' in the Vector Shape inspector. You can optionally set properties like color & border width during vector creation. 
+Create a vector shape by choosing the Insert > Vector menu item, by using the Elements toolbar button, or pressing <kbd>v</kbd>. Your cursor will change to the pen tool: <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeAdd@2x.png" width="15" alt="VectorShapeAdd Cursor"/>. Clicking and dragging will start a curve, and single clicking will create an individual point. To exit vector mode and finish your shape, either click on your initial point to create a close shape, press <kbd>esc</kbd>, <kbd>enter</kbd> or click 'Done' in the Vector Shape inspector. You can optionally set properties like color & border width during vector creation. 
 
 <video class="inlinevideo" preload="metadata" autoplay playsinline loop muted width="518" height="324" style="margin:0 auto;height:auto;">
 <source src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-straight.mp4" type="video/mp4">
@@ -671,14 +671,14 @@ To draw a line, enter vector mode and click to create a new point. Click again t
 
 ### Creating Closed Shapes 
 
-Click once to start your shape, again to create an additional point, then click on your initial point to close your shape. When hovering over your initial point, your cursor will change to a closed circle indicating that clicking will 'close' the shape: <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeClosePath@2x.png" width="15" height="21" alt="Vector Shape Close Path Cursor"/>. When you have either your first or last anchor point selected on a shape, your cursor will be in 'Add Point' mode: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeAdd@2x.png" width="15" height="21" alt="Vector Shape Add Cursor"/>. 
+Click once to start your shape, again to create an additional point, then click on your initial point to close your shape. When hovering over your initial point, your cursor will change to a closed circle indicating that clicking will 'close' the shape: <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeClosePath@2x.png" width="15" alt="Vector Shape Close Path Cursor"/>. When you have either your first or last anchor point selected on a shape, your cursor will be in 'Add Point' mode: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeAdd@2x.png" width="15" alt="Vector Shape Add Cursor"/>. 
 
-After closing a shape, your cursor becomes <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeEdit@2x.png" width="15" height="21" alt="Vector Shape Edit Cursor"/>. This cursor indicates you are in vector edit mode. To exit this mode, press <kbd>esc</kbd>, <kbd>return</kbd>, or click 'Done' in the Vector Shape inspector. 
- When a shape can be closed, a hollow point appears on your cursor <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeClosePath@2x.png" width="15" height="21" alt="Vector Shape Close Path Cursor"/>. Clicking here closes the shape. To finish editing the shape, press <kbd>return</kbd>,   <kbd>esc</kbd>  or press <kbd>v</kbd>.
+After closing a shape, your cursor becomes <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeEdit@2x.png" width="15" alt="Vector Shape Edit Cursor"/>. This cursor indicates you are in vector edit mode. To exit this mode, press <kbd>esc</kbd>, <kbd>return</kbd>, or click 'Done' in the Vector Shape inspector. 
+ When a shape can be closed, a hollow point appears on your cursor <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeClosePath@2x.png" width="15" alt="Vector Shape Close Path Cursor"/>. Clicking here closes the shape. To finish editing the shape, press <kbd>return</kbd>,   <kbd>esc</kbd>  or press <kbd>v</kbd>.
 
 ### Creating Curves
 
-To create a curve while adding anchor points in vector editing mode <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeAdd@2x.png" width="15" height="21" alt="VectorShapeAdd Cursor"/>, click and drag while creating a new anchor point. The distance and angle of your drag defines the slope and angle of the curve. 
+To create a curve while adding anchor points in vector editing mode <img style="margin-bottom:-7px;" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorVectorShapeAdd@2x.png" width="15" alt="VectorShapeAdd Cursor"/>, click and drag while creating a new anchor point. The distance and angle of your drag defines the slope and angle of the curve. 
  
 <video class="inlinevideo" preload="metadata" autoplay playsinline loop muted width="518" height="" style="margin:0 auto;height:auto;">
  <source src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-curve.mp4" type="video/mp4">
@@ -691,13 +691,13 @@ While creating curves, you'll notice the vector shape tool snaps to objects on t
 
 ## Creating Pencil Lines 
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-pencil@2x.png" width="284" height="640" alt="Pencil Inspector"/> The pencil tool creates a vector shape while clicking and dragging on the scene. After creating a line, you may adjust the generated anchor points and curves with the vector shape tool by double clicking on the line. Before starting your line, you may optionally choose your line smoothness, create a line animation, or close your shape when near the line's end. 
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-pencil@2x.png" width="284" alt="Pencil Inspector"/> The pencil tool creates a vector shape while clicking and dragging on the scene. After creating a line, you may adjust the generated anchor points and curves with the vector shape tool by double clicking on the line. Before starting your line, you may optionally choose your line smoothness, create a line animation, or close your shape when near the line's end. 
 
 - Adjust the smoothing settings in the Pencil inspector when the pencil tool is selected. Higher values result in smoother lines and fewer anchor points. 
-- Create a Line Draw animation automatically while creating a line by checking 'Create Line Draw Animation'. Smoothed lines (shown on right) will contain fewer anchor points and even out any jagged points: <br><img class="" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/pencil-smoothing.png" width="350" height="47" alt="Two pencil lines."/>
+- Create a Line Draw animation automatically while creating a line by checking 'Create Line Draw Animation'. Smoothed lines (shown on right) will contain fewer anchor points and even out any jagged points: <br><img class="" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/pencil-smoothing.png" width="350" alt="Two pencil lines."/>
 - Create a closed shape when finishing your shape by checking 'Close path when near line start.'
 
-The pencil tool is ready to draw a new line when the cursor changes to: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorPencil@2x.png" width="16" height="22" alt=""/>. Each line creates a separate vector shape.  
+The pencil tool is ready to draw a new line when the cursor changes to: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorPencil@2x.png" width="16" alt=""/>. Each line creates a separate vector shape.  
 
 With the 'Create Line Draw animation' checkbox selected, your line will automatically create an animation in the direction of your line based on the rate factor selected (1x - 10x) selected in the pencil inspector.
 
@@ -719,8 +719,8 @@ The video below demonstrates different pencil line drawing techniques:
 
 Using the pencil tool in combination with the vector shape tool is a great way to combine freeform drawing and precise vector creation. You may switch between these tools during by following these steps: 
 
-- **To switch from Vector mode to Pencil drawing**, select the first or last anchor point and enable the pencil (by pressing `p`). This will allow you to begin drawing a pencil line from that point. The cursor will change to <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorPencilAdd@2x.png" width="16" height="22" alt=""/> indicating that drawing a line will add onto the currently-selected path. 
-- **Double clicking on any vector shape** will enter Vector mode, and if you enable the pencil in this state, you can overwrite the path with your penciled line. The cursor will change to <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorPencilClear@2x.png" width="16" height="22" alt=""/> and will clear the current vector data and replace it with a new line. 
+- **To switch from Vector mode to Pencil drawing**, select the first or last anchor point and enable the pencil (by pressing `p`). This will allow you to begin drawing a pencil line from that point. The cursor will change to <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorPencilAdd@2x.png" width="16" alt=""/> indicating that drawing a line will add onto the currently-selected path. 
+- **Double clicking on any vector shape** will enter Vector mode, and if you enable the pencil in this state, you can overwrite the path with your penciled line. The cursor will change to <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/CursorPencilClear@2x.png" width="16" alt=""/> and will clear the current vector data and replace it with a new line. 
 
 ### Creating Straight Lines (Pencil Tool)
 
@@ -751,11 +751,11 @@ When converting corner anchor point to a curve, the control handles representing
 
 
 <div class="imagebox" style="width:200px">
- <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-point-convert.gif" width="100" height="107" alt=""/>
+ <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-point-convert.gif" width="100" alt=""/>
  <p class="caption">Converting a point from 'Corner' Mode to 'Mirrored'</p>
 </div>
 
-When hovering over an editable point, your cursor will change to <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/BezierMoveControlPointCursor@2x.png" width="20" height="21" alt="Bézier Control Point Cursor"/>, indicating that it can be moved or adjusted. This cursor only appears in Vector Edit mode, entered by double clicking a Vector or once you are within Vector Edit mode (after double clicking on a vector shape), you may edit points by doing any of the following:
+When hovering over an editable point, your cursor will change to <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/BezierMoveControlPointCursor@2x.png" width="20" alt="Bézier Control Point Cursor"/>, indicating that it can be moved or adjusted. This cursor only appears in Vector Edit mode, entered by double clicking a Vector or once you are within Vector Edit mode (after double clicking on a vector shape), you may edit points by doing any of the following:
 
 - Click and drag on any point to reposition it. You can adjust its position either with your mouse or the arrow keys. Shift + arrow key will adjust its position by 10px increments. 
 - Click and drag across multiple points to select and reposition multiple points. 
@@ -777,7 +777,7 @@ When hovering over an editable point, your cursor will change to <img src="https
 
 **Line Join**: Sets the shape of a stroke on a corner point, also known as a vertex. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/line-join-miter-round-bevel@2x.gif" width="401" height="258" alt="miter round bevel line joins"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/line-join-miter-round-bevel@2x.gif" width="401" alt="miter round bevel line joins"/>
 
 ##### Three Line Join Types
 
@@ -787,13 +787,13 @@ When hovering over an editable point, your cursor will change to <img src="https
 
 The line draw value for a Vector shape defines the percentage of the stroke around the shape, starting from its initial point. Alternatively, you may choose a dash format for the line, which offers control over the width of the dash, the distance between dashes (line gap), and the starting point of this dashed line (offset). The animation below shows an example line draw animation, line gap, dash, and offset values changing over 5 seconds: 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vectors-linedrawdash@2x.gif" width="428" height="238" alt="Line Draw and Dash"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vectors-linedrawdash@2x.gif" width="428" alt="Line Draw and Dash"/>
 
 **Line Draw**
 
 The line draw percentage sets the percentage of the border length on the vector shape. A value of 0% begins at the initial anchor point and a 100% value sets a border on the entire shape. 
 
-**Line Dash** <img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-dash-gap-offset-inspector@2x.png" width="270" height="224" alt=""/>
+**Line Dash** <img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-dash-gap-offset-inspector@2x.png" width="270" alt=""/>
 
 The Line Dash defines the length, gap, and offset of dashed borders for your vector shape. To switch from Line Draw to Line Dash, click Line Draw to toggle between the two options.  
 
@@ -807,7 +807,7 @@ The Line Dash defines the length, gap, and offset of dashed borders for your vec
 
 Vector shapes may have a fill color, gradient, or image as their background. Set fill or gradient color and transparency using the color picker. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-shape-background@2x.png" width="502" height="190" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/vector-shape-background@2x.png" width="502" alt=""/>
 
 ##### No Fill, Color Fill, Gradient Fill, and Image Fill Vector Shapes
 
@@ -834,13 +834,13 @@ When added to the scene, Tumult Hype generates video thumbnails in the timeline 
 
 Please see compatibility notes below for information on playing your video and preview in your target devices frequently to ensure timely playback. 
  
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoResourceLibraryVideo@2x.png" width="271" height="271" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoResourceLibraryVideo@2x.png" width="271" alt=""/>
 
 
 ##### Video Sources (Resource Library) 
  
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoElementInspectorVideo@2x.png" width="272" height="286" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoElementInspectorVideo@2x.png" width="272" alt=""/>
 
 ##### Video Sources and Options (Element Inspector) 
 
@@ -886,12 +886,12 @@ For updates on video compatibility, please visit the [Tumult Forums](https://for
 
 ## The Audio Element
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoAudioResourceLibrary@2x.png" width="272" height="290" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoAudioResourceLibrary@2x.png" width="272" alt=""/>
 
 ##### Audio Sources (Resource Manager) 
  
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoAudioTimelineAction@2x.png" width="308" height="333" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoAudioTimelineAction@2x.png" width="308" alt=""/>
 
 ##### Audio played by a Timeline Action 
  
@@ -903,7 +903,7 @@ On the newest browsers, Tumult Hype plays audio using the powerful Web Audio API
 To add audio to your project, first create your file formats based on your desired [browser compatibility](#audio-browser-support). Most browsers will play the MP3 format. To quickly add multiple audio file formats as a single audio group, use the same filenames. For example, create: 
 <code>whalesounds.mp3</code> and <code>whalesounds.ogg</code>. Dragging these files into the resource library will create an audio source group called _whalesounds_. You can also individually add audio formats by selecting the audio source group and adding missing formats.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoAudioResourceLibrary@2x.png" width="271" height="317" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AudioVideoAudioResourceLibrary@2x.png" width="271" alt=""/>
 
 ##### The Audio group 'Crowd' shown in the Resource Library
 
@@ -978,7 +978,7 @@ Changing the font for selected text is as simple as clicking a font’s name in 
 
 Select from the Web, iOS, Google, or Custom font family selection menu to choose different fonts.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/fontsFamily@2x.png" width="270" height="342" alt=""/>  
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/fontsFamily@2x.png" width="270" alt=""/>  
 
 ##### Font Family Selection
 
@@ -998,7 +998,7 @@ Google’s Font Directory contains hundreds of royalty free web fonts hosted on 
 
 To use your newly added Google Web Font, select text or an element containing text, and then choose the font from Hype’s font list. You can filter the font list to include just Google Web Fonts by choosing Google Fonts from the filter menu above the font family listing.
 
-<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FontsGoogleAddMorePane@2x.gif" width="700" height="550" alt=""/>  
+<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FontsGoogleAddMorePane@2x.gif" width="700" alt=""/>  
 
 ##### Adding a Google Font  
 
@@ -1077,7 +1077,7 @@ Tumult Hype uses a powerful keyframe-based animation system to give elements mot
 
 ## Animation User Interface
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationsOverview@2x.png" width="641" height="347" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationsOverview@2x.png" width="641" alt=""/>
 
 1. Animation controls (left-to-right): Jump to Start, Previous Frame, Next Frame, Play/Pause, Loop
 2. Current time indicator; matches time cursor
@@ -1097,7 +1097,7 @@ Tumult Hype uses a powerful keyframe-based animation system to give elements mot
 
 Keyframes specify the value for a property at a specific point in time, and animations are composed of two keyframes which define the starting and ending values of a property’s animation.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationKeyframes@2x.png" width="380" height="236" alt=""/>  
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationKeyframes@2x.png" width="380" alt=""/>  
 
 **Animation Keyframes**  
 
@@ -1124,13 +1124,13 @@ Notice a red animation bar was created on the timeline. The red animation bar ma
 
 The Capo pairs with Tumult Hype’s recording feature to let you quickly build animations which start and end at arbitrary times without manually inserting keyframes. With the Record button on, you’ll see a small tab — the Capo — appear at the left edge of the time scale area.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationCapo_1@2x.png" width="436" height="182" alt=""/>   
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationCapo_1@2x.png" width="436" alt=""/>   
 
 ##### The Capo Tab
 
 The position of the Capo sets the starting time for your animation. The Capo and time cursor are typically moved independently from each other, and you can adjust the position of both simultaneously by holding the control button while dragging either.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationCapo_2@2x.png" width="517" height="342" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationCapo_2@2x.png" width="517" alt=""/>
 
 ##### An Animation Created Using Recording and the Capo. 1) Animation Starting time defined by the Capo. 2) Animation Ending time (Defined by Time Cursor).
 
@@ -1147,7 +1147,7 @@ To add a starting keyframe, select an element in the scene editor. Your selected
 
 To add the ending keyframe, move the time cursor to the point on the timeline you’d like the animation to end at. Click the Add Keyframe button again to create a second keyframe on the timeline. Finally, you’ll want to set the property to its ending value. To complete the fade in, set the opacity to 100%. A bar between the keyframes will appear; this indicates the property is animating.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationsAddKeyFrameButtons@2x.png" width="277" height="276" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationsAddKeyFrameButtons@2x.png" width="277" alt=""/>
 
 ##### Per-Property Add Keyframe Buttons
 
@@ -1159,7 +1159,7 @@ By default, clicking a property’s Add Keyframe button adds a keyframe for the 
 
 By default, when you click on an element in the element list the only properties that are shown in the properties list are the opacity, origin, and size. These are the properties you’ll likely be manipulating, but Tumult Hype is capable of animating most properties you can set in the inspector. To manually add keyframes for other properties, you’ll need to add them to the currently selected element’s property list. To do this, click on the Properties pop-down menu and select which property you’d like to animate. Now this property can be selected for adding keyframes.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationKeyframesList@2x.png" width="314" height="252" alt="Animation Keyframes List"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationKeyframesList@2x.png" width="314" alt="Animation Keyframes List"/>
 
 ##### Animation Keyframes  
 
@@ -1174,7 +1174,7 @@ For manipulating properties with keyframes, there are two rules to note:
 1. If the time cursor is on a keyframe for a property and that property is manipulated through the inspector, the keyframe value itself will change.
 2. If the time cursor is not directly on a keyframe for a property that has keyframes, and the property is changed, then the keyframes will all be offset.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Animation-On-andOffKeyframe@2x.png" width="459" height="198" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Animation-On-andOffKeyframe@2x.png" width="459" alt=""/>
 
 ##### Time Cursor On Keyframe | Time Cursor Off Keyframe
 
@@ -1187,7 +1187,7 @@ With this animation, placing the time cursor at either 1 second or 2 seconds wil
 
 Keyframes support most standard manipulations; multiple keyframes can be selected, dragged to move, copied, and pasted. While keyframes are represented by diamonds in the property area, the duration and span of animations are represented by the bars between keyframes. To the right of the elements are animation overview bars, which represent keyframes as white lines. These bars can be resized and dragged to adjust animations. Just like individual keyframes, multiple animation bars can be selected at once and copied and pasted.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationBars@2x.png" width="449" height="86" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationBars@2x.png" width="449" alt=""/>
 
 ##### Animation Overview Bar and Keyframe indicators  
 
@@ -1217,9 +1217,9 @@ A motion path is a curved animation between two or more points. Create a motion 
 4. Turn off recording by once again clicking the Record button.
 5. Now that there’s an animation, convert the basic path to a motion path by first clicking on the animation’s path to select it for editing, and then clicking once again to add a motion path control point. Dragging the control point or the control handles alters the curve, and additional control points can be added anywhere on the path by clicking the path. 
 
-Alternatively, you can convert an origin (top) and origin (left) animation to a motion path by clicking the <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementBezierTemplate@2x.png" width="13" height="13" alt="motion path icon"/> icon in the property list. 
+Alternatively, you can convert an origin (top) and origin (left) animation to a motion path by clicking the <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementBezierTemplate@2x.png" width="13" alt="motion path icon"/> icon in the property list. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Animation-MotionPath.gif" width="228" height="148" alt="Creating a Motion Path"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Animation-MotionPath.gif" width="228" alt="Creating a Motion Path"/>
 
 
 ##### Creating a Motion Path by clicking on an Animation Path
@@ -1233,7 +1233,7 @@ By default, elements move along motion paths without rotating. When the ‘Rotat
 ### Adjusting a Motion Path
 
 - **Shape:** To adjust a motion path’s curve, click once on the path and then click and drag any control point to change its location, or any control handles to change the nature of the curve.
-- **Adding and Removing Control Points:** Add control points by first selecting a path; once a path is selected, clicking anywhere on the path will add a control point. This cursor indicates a control point will be added when the path is clicked: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/BezierAddControlPointCursor@2x.png" width="20" height="20" alt=""/>.   
+- **Adding and Removing Control Points:** Add control points by first selecting a path; once a path is selected, clicking anywhere on the path will add a control point. This cursor indicates a control point will be added when the path is clicked: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/BezierAddControlPointCursor@2x.png" width="20" alt=""/>.   
 Any control point can be removed by clicking on the control point and then pressing Delete. Because the starting and ending control points define the element’s animation, those can only be deleted by deleting the animation itself as is described in the Manipulating Keyframes section.
 - **Rotation:** By default, elements move along motion paths without rotating. When the “Rotation follows motion path” option in the Metrics inspector is enabled, elements instead rotate so they’re always perpendicular with respect to their motion path.
 
@@ -1256,7 +1256,7 @@ To copy a vector shape's path onto a motion path:
 2. Press <kbd>⌘</kbd> + <kbd>c</kbd> to copy the path. 
 3. Select a motion path and press <kbd>⌘</kbd> + <kbd>v</kbd> to paste the path onto the motion path. This replaces the current motion path. 
 
-If the origin animation being replaced is not yet a motion path, you will need to [create a motion path](#creating-a-motion-path) by clicking the motion path icon in the animation property area: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementBezierTemplate@2x.png" width="13" height="13" alt="motion path icon"/>. 
+If the origin animation being replaced is not yet a motion path, you will need to [create a motion path](#creating-a-motion-path) by clicking the motion path icon in the animation property area: <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ElementBezierTemplate@2x.png" width="13" alt="motion path icon"/>. 
 
 The below tutorial covers motion paths, shows the use of a vector shape for a motion path, and a motion path for a vector shape: 
 
@@ -1277,7 +1277,7 @@ A shape morph is an animation of a [vector shape element](#vector-shapes). A mor
 
 ### Morph Between Two Separate Shapes
 
-<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/animation-vector-morph.gif" width="125" height="160" alt="Morphing a vector shape / SVG from Nevada to California"/>
+<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/animation-vector-morph.gif" width="125" alt="Morphing a vector shape / SVG from Nevada to California"/>
 
 Because all anchor points and curves representing a [vector shape's](#vector-shapes) path can be copied into the clipboard, you can use a path animation from one shape to morph another shape into that shape. To morph between two shapes, create two shapes with the vector tool. For information on the Vector tool, visit the [Vectors](#vector-shapes) chapter. Below is how to create a shape morph animation:
 
@@ -1307,7 +1307,7 @@ The video below demonstrates shape morphing:
 Selecting a vector shape with a single click allows you to resize, rotate, and scale the object. Recording while performing these actions will generate keyframes:
 
 - Use the resize handles to resize an element. Click and drag to adjust.
-- To rotate a vector shape, select it, hold <kbd>⌘</kbd> and drag the <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/element-rotation.png" width="8" height="8" alt="element rotation handle"/> shape that appears in the corners of the element. 
+- To rotate a vector shape, select it, hold <kbd>⌘</kbd> and drag the <img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/element-rotation.png" width="8" alt="element rotation handle"/> shape that appears in the corners of the element. 
 - Hold <kbd>⌘</kbd> while clicking and dragging a corner to scale the element. This will have the effect of disconnecting the border width of the object from the actual size. For example, an object with a 2px border scaled to 200% will appear as a 4px border on screen. Adjust scaling in the metrics inspector. 
 
 Selecting a vector shape with a double click exposes the shape's anchor points. Recording while adjusting anchor points or control points and advancing the playhead generates path keyframes. 
@@ -1351,7 +1351,7 @@ Tumult Hype supports the following animation timing functions:
   - `start` - The time of the initial keyframe.
   - `dur` - The total duration of the animation.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/animation-easing-math-equation.gif" width="345" height="405" alt="Math Equation Easing Animation"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/animation-easing-math-equation.gif" width="345" alt="Math Equation Easing Animation"/>
 
 ##### Live editing a math equation-based easing property
 
@@ -1377,7 +1377,7 @@ You edit timing functions just as you edit element motion paths:
 
 All of the motion path keyboard shortcuts work while editing timing functions.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/tempanimation-easing-custom-pro@2x.png" width="471" height="358" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/tempanimation-easing-custom-pro@2x.png" width="471" alt=""/>
 
 ##### Custom Timing Function Editor
 
@@ -1401,7 +1401,7 @@ There are three ways to create timelines:
 
 Timelines can be added via the Timeline Selector pop-down menu by clicking on the menu and choosing the New Timeline command. Newly created timelines are automatically selected for editing. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelineSelectorMenu@2x.png" width="320" height="110" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelineSelectorMenu@2x.png" width="320" alt=""/>
 
 ##### Timeline Selector Menu 
 
@@ -1409,7 +1409,7 @@ Timelines can be added via the Timeline Selector pop-down menu by clicking on th
 
 Timelines can be created when choosing Start Timeline, Pause Timeline, Continue Timeline, or Go to Time in Timeline as an action handler. (The [Actions chapter](#actions) has more information about Tumult Hype’s various action handlers.) Choosing one of those actions presents a Timeline pop-up menu, and choosing New Timeline will create a timeline. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Timelines-Actions@2x.png" width="279" height="188" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Timelines-Actions@2x.png" width="279" alt=""/>
 
 ##### Action Handler Menus   
   
@@ -1417,7 +1417,7 @@ Timelines can be created when choosing Start Timeline, Pause Timeline, Continue 
 
 Timelines can be added in the Scene Inspector’s Animation Timelines section. Click the '+' button to add a new timeline. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesListedinSceneInspector@2x.png" width="280" height="174" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesListedinSceneInspector@2x.png" width="280" alt=""/>
 
 ##### Animation Timelines Properties in the Scene Inspector  
   
@@ -1435,7 +1435,7 @@ Duplicate a timeline by selecting it in the Animation Timelines area of the Scen
 
 Animations on the Main Timeline run when the scene is first loaded. Additional timelines act as containers for animations that use elements in the scene, but are not to be run when first loading a scene. (It is possible to have additional timelines run when a scene is loaded: create an [On Scene Load](#scene-actions) action handler that invokes Play Timeline for one or more alternate timelines.) Switch between different timelines by using the Timeline Selector menu. Timelines can also be controlled by the On Drag action handler at either the scene or element level. This technique is useful for giving users control over “scrubbing” timelines, or for building complex drag animations. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesNewTimelineMenu@2x.png" width="313" height="144" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesNewTimelineMenu@2x.png" width="313" alt=""/>
 
 ##### Timeline Selector Menu  
   
@@ -1445,7 +1445,7 @@ Animations on the Main Timeline are started automatically when a scene is loaded
 
 Timelines may be played either forwards or backwards. By default, a timeline plays forwards and only once. To play a timeline in the opposite direction, select 'Play in reverse.' To play a timeline in reverse at the end of its animation, use a timeline action to Continue Timeline and check 'Play in reverse' as shown below: 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesPlaybackDirection@2x.png" width="330" height="223" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesPlaybackDirection@2x.png" width="330" alt=""/>
 
 ##### This Timeline Action will reverse the timeline at 4 seconds.
   
@@ -1454,7 +1454,7 @@ Timelines may be played either forwards or backwards. By default, a timeline pla
 The document below demonstrates playback of the main timeline, additional timelines, and reversed timelines within Tumult Hype. 
  
 	<a href="https://tumult.com/hype/documentation/v4/documents/Timelines-Example.html">
-	<div class="demoimageset"><img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/demo-Timelines.gif" width="640" height="240" alt=""/><a class="previewbtn" style="margin-top:-140px" href="https://tumult.com/hype/documentation/v4/documents/Timelines-Example.html">View Demo</a></div></a> 
+	<div class="demoimageset"><img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/demo-Timelines.gif" width="640" alt=""/><a class="previewbtn" style="margin-top:-140px" href="https://tumult.com/hype/documentation/v4/documents/Timelines-Example.html">View Demo</a></div></a> 
 </aside> 
 <p class="download"><a href="https://tumult.com/hype/documentation/v4/documents/demo_timelines.zip" class="demo download">Download demo document.</a></p>
 
@@ -1474,14 +1474,14 @@ This difference makes timelines with absolute starting keyframes useful for effe
 
 Toggle whether a timeline’s first keyframes should be relative by opening the Scene inspector and selecting the Relative checkbox in that timeline’s entry in the Animation Timelines table. Absolute keyframes are always drawn with a diamond, while relative keyframes are drawn as a circle.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesListedinSceneInspector@2x.png" width="280" height="174" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/TimelinesListedinSceneInspector@2x.png" width="280" alt=""/>
 
 
 ##### Animation Timelines in the Scene Inspector
   
 Because relative keyframes take the element’s property’s current value when the timeline is started, there are some situations where Tumult Hype cannot definitively indicate whether an animation will happen. In the example below, the Move Soccerball timeline is active and uses relative keyframes. Because the Origin (Left) animation has different starting and ending values, Tumult Hype knows that animation will always take place. The Origin (Top) animation, however, has the same starting and ending values. As such, that animation will only happen if the element is currently at a different Origin (Top) value when the timeline is started. Because of this uncertainty, Tumult Hype draws the Origin (Top) animation bar slightly transparent, indicating that the Origin (Top) animation between the starting relative keyframe and ending absolute keyframe may not have any effect on the scene.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationPotentialKeyframes@2x.png" width="253" height="324" alt=""/>  
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AnimationPotentialKeyframes@2x.png" width="253" alt=""/>  
 
 ##### Potential Animation With Relative Keyframes 
   
@@ -1585,11 +1585,11 @@ Any element can respond to both mouse and touch actions. Set an action on an ele
     - **Control Timeline — **Horizontally or vertically dragging across the selected element controls playback of the selected timeline. The axis dropdown defines whether a horizontal or vertical drag controls the timeline. The direction dropdown defines whether the indicated timeline plays forwards or backwards. Use the 'Speed' setting to define how a gesture translates to playback speed. Select ‘Continue after drag’ to maintain the momentum of the timeline's playback after releasing.
     - For deeper control over dragged elements, see the [JavaScript Drag API section](#dragapi) of the documentation.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsDragPanel@2x.png" width="272" height="163" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsDragPanel@2x.png" width="272" alt=""/>
 
 ### Mouse Pointer, Text Selection & Cursor Options
 
-**Cursor Options**: <img class="right" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Actions-cursors@2x.png" width="273" height="327" alt=""/> In the Actions inspector, you may optionally set a cursor style when hovering an element. Choose from the cursor styles shown in the image. Note that by default, the cursor will display as the 'Pointer' style when an element has an action assigned to it or a link. 
+**Cursor Options**: <img class="right" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Actions-cursors@2x.png" width="273" alt=""/> In the Actions inspector, you may optionally set a cursor style when hovering an element. Choose from the cursor styles shown in the image. Note that by default, the cursor will display as the 'Pointer' style when an element has an action assigned to it or a link. 
 **Allow Text Selection**: Disabling 'Allow Text Selection' enables a`user-select: none;` property on the element, disallowing selection of the text. 
 **Ignore All Pointer Events**: Elements at the top of the layer order receive touch and mouse actions. To pass clicks or touches through elements, select them, and check 'Ignore all pointer events' in the Action inspector. 
 
@@ -1604,7 +1604,7 @@ To correctly trigger mouse actions, elements must not have other elements above 
 
 Set an action on a button by selecting the button, activating the Mouse Action inspector, and then clicking the Plus button next to the On Mouse Click action header:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsButtonMouse@2x.png" width="464" height="294" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsButtonMouse@2x.png" width="464" alt=""/>
 
 ##### A Mouse Action Set on a Button
 
@@ -1635,7 +1635,7 @@ Scene actions trigger in response to scene events and are useful for scene-speci
 - **On Key Up** — Triggered when a keyboard key has been released.
 - **On Swipe Left** — Triggered when the scene is swiped from right to left.
 - **On Swipe Right** — Triggered when the scene is swiped from left to right.
-- <img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Scene-Page-Turn.gif" width="140" height="96" alt=""/> **On Swipe Left/Right: Page Turn** — Selecting this option will transition to the selected scene at the rate of a finger swipe or a mouse click and drag. 
+- <img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/Scene-Page-Turn.gif" width="140" alt=""/> **On Swipe Left/Right: Page Turn** — Selecting this option will transition to the selected scene at the rate of a finger swipe or a mouse click and drag. 
 - **On Swipe Up** — Triggered when the scene is swiped from bottom to top.
 - **On Swipe Down** — Triggered when the scene is swiped from top to bottom.
 - **On Drag** — Triggered when the scene area is dragged.
@@ -1647,14 +1647,14 @@ Scene actions trigger in response to scene events and are useful for scene-speci
 
 Timeline actions fire at a certain point in a timeline, and trigger only when your document is exported or previewed. Add a new timeline action at the playhead’s current position by clicking the Plus button in the Timeline Actions gutter, or by double clicking anywhere on the Timeline Actions’ timeline. Existing Timeline Actions can be edited by double clicking on their associated keyframe. For further control over actions beyond Timeline Actions, please see the [JavaScript API documentation](#javascript).
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsTimelineActions@2x.png" width="415" height="128" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsTimelineActions@2x.png" width="415" alt=""/>
 
 ##### Timeline Actions
 
 
 Edit an existing Timeline Action by double clicking on its associated keyframe to open the Timeline Action pop-up window:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsEditTimelineAction@2x.png" width="342" height="226" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsEditTimelineAction@2x.png" width="342" alt=""/>
 
 ##### Timeline Actions Pop-up Window
 
@@ -1672,7 +1672,7 @@ Here are a few examples of what Timeline Actions can be used for:
 
 The types of actions possible for scene, mouse, or time-based events are the same. The action menu throughout Tumult Hype provides quick access to eight different actions and one command.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsAvailableActions@2x.png" width="275" height="430" alt=""/>  
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsAvailableActions@2x.png" width="275" alt=""/>  
 
 ##### Available Actions  
 
@@ -1709,7 +1709,7 @@ More than one action can be triggered in response to an event. For example, a bu
 
 Clicking the Plus button in any action handler’s section appends a new action to the end of the action chain.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsChaining@2x.png" width="272" height="227" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ActionsChaining@2x.png" width="272" alt=""/>
 
 
 ##### Adding Actions
@@ -1792,7 +1792,7 @@ Tumult Hype's physics system is based on the comprehensive JavaScript-based phys
 
 
 	<a href="https://tumult.com/hype/documentation/v4/documents/PhysicsDemo/PhysicsMaster.hype.zip" alt="_blank">
-	<div class="demoimageset"><img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/physics-castle.gif" width="640" height="292" alt=""/><a class="previewbtn" style="margin-top:-170px" href="https://tumult.com/hype/documentation/v4/documents/PhysicsDemo/PhysicsMaster.hype.zip" alt="_blank">Download Demo</a></div></a>
+	<div class="demoimageset"><img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/physics-castle.gif" width="640" alt=""/><a class="previewbtn" style="margin-top:-170px" href="https://tumult.com/hype/documentation/v4/documents/PhysicsDemo/PhysicsMaster.hype.zip" alt="_blank">Download Demo</a></div></a>
 </aside>
 
 <a href="https://tumult.com/hype/documentation/v4/documents/PhysicsDemo/PhysicsMaster.html">View demo on the web</a>.
@@ -1808,7 +1808,7 @@ Symbols are a powerful tool which let you easily reuse elements, timelines, and 
 
 Symbols can be created either through the Symbol menu or the Symbols toolbar button. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/symbol-toolbar-button@2x.png" width="995" height="200" alt=""/> 
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/symbol-toolbar-button@2x.png" width="995" alt=""/> 
 
 The New Symbol and New Persistent Symbol items create empty symbols ready for you to dive in and edit, while the New Symbol from Selection and New Persistent Symbol from Selection items take your currently selected items and all of their associated timelines, animations, and behaviors and place them in a new symbol.
 
@@ -1826,7 +1826,7 @@ Persistent symbols exist outside of scenes at the document level. They are not d
 
 Edit any symbol by double clicking on the symbol in the scene editor or in the element list. When you enter a symbol for editing, the symbol path bar appears:
 
-<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/symbol-bar@2x.png" width="764" height="154" alt=""/> 
+<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/symbol-bar@2x.png" width="764" alt=""/> 
 
 As symbols can themselves contain symbols, you sometimes find yourself diving deep into the hierarchy. The symbol path bar both tells you which symbols you're editing and helps you navigate the hierarchy. Click on any symbol on the path to jump up to its level and click the Close button on the far left to stop editing all symbols and return back to the scene's level.
 
@@ -1842,7 +1842,7 @@ Symbols have their own inspector for settings, timelines, and symbol level actio
 
 Just like images, videos, and other resources, symbols are managed in the Resource Library.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SymbolsResourceLibrary@2x.png" width="276" height="252" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SymbolsResourceLibrary@2x.png" width="276" alt=""/>
 
 By default, deleting the last instance of a symbol in your Document will also remove it from the Resource Library. To change this behavior, select the symbol in the Resource Library and uncheck “Remove when no longer referenced”.
 
@@ -1852,8 +1852,8 @@ Deleting a symbol from the Resource Library removes all instances of it from the
 
 Just like scenes, symbols can have multiple timelines. There are five ways to kick off a symbol's timeline.
 
-1. **Symbol Timeline Actions**: When a symbol element is selected, a new property called Symbol Actions appears in the timeline. These work just like timeline actions, but can control timelines inside of the selected symbol. You can use symbol actions to play, pause, go to time, and continue symbol timelines. When you use symbol actions, animations inside of the symbol will play in Hype along with animations outside. <br/> <img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SymbolSelectedSymbolAction@2x.png" width="431" height="305" alt=""/> 
-2. **Action Handlers on the symbol element**: When a symbol element is selected, the symbol’s timelines will show up in the element actions (mouse click, mouse over, etc.) in addition to the scene level timelines.<br><img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SymbolsActionsWhenSelected@2x.png" width="272" height="392" alt=""/>
+1. **Symbol Timeline Actions**: When a symbol element is selected, a new property called Symbol Actions appears in the timeline. These work just like timeline actions, but can control timelines inside of the selected symbol. You can use symbol actions to play, pause, go to time, and continue symbol timelines. When you use symbol actions, animations inside of the symbol will play in Hype along with animations outside. <br/> <img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SymbolSelectedSymbolAction@2x.png" width="431" alt=""/> 
+2. **Action Handlers on the symbol element**: When a symbol element is selected, the symbol’s timelines will show up in the element actions (mouse click, mouse over, etc.) in addition to the scene level timelines.<br><img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/SymbolsActionsWhenSelected@2x.png" width="272" alt=""/>
 3. **Behaviors**: Behaviors are a great way to control multiple symbols at once. See the [behaviors](#behaviors) section for more information.
 4. **On Symbol Load action**: You can use the On Symbol Load action in the Symbol Inspector to kick off timelines the first time the symbol is shown. This is a great place to start timelines on a persistent symbol.
 5. **Symbol Instance API Functions**: Visit the [Symbol Instance](#symbol-instances) section. 
@@ -1918,7 +1918,7 @@ Tumult Hype offers a powerful layout system for resizing and scaling documents, 
 
 By default, Tumult Hype animations have a fixed width and height, and do not respond to window or viewport size changes. To make your animation responsive to size changes, you must first select the Width and Height Scale checkboxes in Hype’s Element inspector. Enabling these options allows your document to respond to width or height size changes as desired. The Width and Height Scale options are complimented by percentage fields which define how much of the containing window or div the Hype document should fill. The default value is 100%, which means the Hype document will expand or contract to fill the width or height of its container. Reducing this number restricts how the document will expand. For example, setting the value to 50% means the Hype document will only expand to fill half of the width or height of its container. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayout-ScalingSettings@2x.png" width="272" height="205" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayout-ScalingSettings@2x.png" width="272" alt=""/>
 
 ##### Document Scale Settings
   
@@ -1927,7 +1927,7 @@ By default, Tumult Hype animations have a fixed width and height, and do not res
 
 Enabling document scaling is only the first step for creating a completely responsive document. After deciding how your document should scale, you then need to define how elements in the document should adapt to size changes. This is done by “pinning” elements to edges of the scene, allowing the elements to resize horizontally or vertically, and, for proportionally sized elements like images, controlling how they should scale. Hype’s Metrics inspector offers a Flexible Layout section which contains all of the controls for managing how elements should adapt to document size changes. Please note that this section will be disabled if you have not first set scaling settings in the Document inspector. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayoutAnimation.gif" width="273" height="176" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayoutAnimation.gif" width="273" alt=""/>
 
 ##### Element Scale Settings
   
@@ -1942,21 +1942,21 @@ Element resizing is controlled by the two sizing arrows presented in the Metric 
 
 ### Scaling Behavior
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayoutScalingBehavior@2x.png" width="271" height="231" alt=""/> 
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayoutScalingBehavior@2x.png" width="271" alt=""/> 
 
 **Scaling behavior settings appear when height and width sizing is selected** 
 
 The scaling behavior control allows you to change how elements should be resized. This control is only enabled when an element is allowed to resize both its width and height. When an element is allowed to resize in both dimensions, the default scaling behavior is to stretch the element. This is ideal in most situations, but there are times — such as when an image is being resized — where an element should not be arbitrarily stretched and instead its proportions should be preserved. To handle those situations, Hype offers two additional scaling behaviors which preserve the element’s aspect ratio: Shrink to Fit and Expand to Fill. When Shrink to Fit is chosen, Hype ensures that the element will never expand outside of its bounding region. Conversely, when Expand to Fill is chosen, Hype will make sure the element always fills its bounding region, even if that means it may spill outside. As an analogy, consider what happens when watching wide-screen content on a TV: viewing that content letterboxed is similar to Shrink to Fit as all of the content is always visible on the TV. Likewise, viewing the same content fullscreen is similar to Expand to Fill, as the video expands to fill the TV even though some content falls off the screen. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scalingBehaviors1@2x.png" width="500" height="120" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scalingBehaviors1@2x.png" width="500" alt=""/>
 
 ##### Stretch (Distorting) 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scalingBehaviors2@2x.png" width="500" height="120" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scalingBehaviors2@2x.png" width="500" alt=""/>
 
 ##### Shrink to Fit (Will not distort)
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scalingBehaviors3@2x.png" width="500" height="150" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/scalingBehaviors3@2x.png" width="500" alt=""/>
 
 ##### Expand to Fill (Will not distort) 
 
@@ -1973,7 +1973,7 @@ Documents with a scaling turned on for the height dimension will not display ver
 ### Flexible Layouts Example 
 The document demonstrates scaling and pinning elements using the Flexible Layouts feature:
 	<a href="https://tumult.com/hype/documentation/v4/documents/FlexibleLayouts/FlexibleLayoutExample.html" alt="_blank">
-	<div class="demoimageset"><img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayoutExampleThumb@2x.png" width="598" height="448" alt=""/><a class="previewbtn" style="margin-top:-165px" href="https://tumult.com/hype/documentation/v4/documents/FlexibleLayouts/FlexibleLayoutExample.html" alt="_blank">View Demo</a></div></a> 
+	<div class="demoimageset"><img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/FlexibleLayoutExampleThumb@2x.png" width="598" alt=""/><a class="previewbtn" style="margin-top:-165px" href="https://tumult.com/hype/documentation/v4/documents/FlexibleLayouts/FlexibleLayoutExample.html" alt="_blank">View Demo</a></div></a> 
 </aside> 
 <p class="download"><a href="https://tumult.com/hype/documentation/v4/documents/FlexibleLayouts/FlexibleLayoutExample.hype.zip" class="demo download">Download demo document.</a></p>
 
@@ -1997,7 +1997,7 @@ Preview your Tumult Hype document in Hype Reflect by following these steps:
 
 Your current Hype document should appear on your iOS device, in Hype Reflect.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/HypeReflectPreviewDisclosure@2x.png" width="378" height="254" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/HypeReflectPreviewDisclosure@2x.png" width="378" alt=""/>
 
 ##### Preview drop-down in Tumult Hype: Available devices highlighted blue
 
@@ -2013,7 +2013,7 @@ When you initially preview your document, your document is in Preview mode. In t
 
 Switch between different scenes within Hype Reflect by tapping the Scenes icon in the upper left hand corner and choosing your desired scene. Reload the document by tapping the reload button; this is a quick way to get most recent changes made in Tumult Hype.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/HypeReflectResponsiveIphone@2x.png" width="650" height="544" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/HypeReflectResponsiveIphone@2x.png" width="650" alt=""/>
 
 ##### Left: Preview, Right: Preview in Responsive Mode
 
@@ -2170,7 +2170,7 @@ For image-based content, make sure you add a description in the ‘Alternate Tex
 
 To ensure users making use of screen readers can 'tab' to your elements, use the Tab Index value in the identity inspector. 
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-identity@2x.png" width="269" height="443" alt=""/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-identity@2x.png" width="269" alt=""/>
 
 **Example**: A button with the 'Alternate Text' set to 'Submit Button', a 'Tab Index' value of 6, a Unique element id set to `nextscene-button`, and a class name of `button-lrg` will output the following HTML during export:
 
@@ -2270,7 +2270,7 @@ Tumult Hype animators have successfully deployed advertisements on many advertis
 
 When producing an campaign for multiple banner sizes, you can use a single Tumult Hype document to contain each size. Using either multiple scene sizes or multiple layouts lets you share resources and code within a single Hype document, reducing repetitive work. Each scene or layout can be then exported individually using the [Advanced Export](#advanced-export) feature. Additionally, each individual 'slice' exported with this feature can be exported using a Hype Export Script. Additionally, you may generate different poster or fallback images for each slice. Below is a bit of additional detail on how these two features might help you streamline your ad workflow: 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/advertisingLayouts@2x.jpg" width="275" height="314" alt="Responsive Layouts for Advertising"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/advertisingLayouts@2x.jpg" width="275" alt="Responsive Layouts for Advertising"/>
 
 ##### Several banner sizes in a single Tumult Hype Document
 
@@ -2336,7 +2336,7 @@ Export Scripts must have an extension recognizable as a script (.sh, .py, .rb, e
 
 Hype's Export preference pane offers a button for the user to easily go to this folder. If the script successfully meets the above points, it will show up in the list in this pane:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptsPreferences.png" width="482" height="276" alt="Hype Exports in Preferences"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptsPreferences.png" width="482" alt="Hype Exports in Preferences"/>
 
 ##### Hype Export Scripts in Preferences
 
@@ -2376,15 +2376,15 @@ When an Export Script has been installed, you may trigger it by:
 ### Selecting it in the File > Export as HTML5 menu
 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptsFileMenu.png" width="627" height="457" alt="Export Scripts"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptsFileMenu.png" width="627" alt="Export Scripts"/>
 
 ### Choosing it during Advanced Export 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptsadvanced-export.jpg" width="906" height="696" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptsadvanced-export.jpg" width="906" alt=""/>
 
 ### If the script is configured to modify Previews, you can find it in the Preview Toolbar:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptPreviewMenu.jpg" width="449" height="359" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportScriptPreviewMenu.jpg" width="449" alt=""/>
 
 
 ## Developing Export Scripts
@@ -2421,7 +2421,7 @@ To preview directly on an iOS device, please see the [Hype Reflect](#hype-reflec
 
 By default, only common browsers will be shown in the Preview menus. You prevent this filtering by disabling the “Only show recommended browsers in preview menu” option in Hype’s preferences.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/HypeReflectPreviewDisclosure@2x.png" width="378" height="254" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/HypeReflectPreviewDisclosure@2x.png" width="378" alt=""/>
 
 ##### Available Preview Options
 
@@ -2434,13 +2434,13 @@ Tumult Hype exports documents to HTML5. Exporting is a one-way process; Tumult H
 
 To generate HTML, choose File > Export as HTML5 > Folder. By default, Tumult Hype will create a folder containing two items:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportingHTMLDoc@2x.png" width="393" height="237" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportingHTMLDoc@2x.png" width="393" alt=""/>
 
 ##### An .html document
 
 Open this HTML document in your browser to see your document in action. If you need to put your content into a different document, see [Embedding in Other HTML Documents](#embedding-in-other-html-documents).  
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportingResourcesContents@2x.png" width="414" height="165" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/ExportingResourcesContents@2x.png" width="414" alt=""/>
 
 ##### A resources folder
 
@@ -2461,7 +2461,7 @@ This folder contains all image, video, and file resources stored in the document
 
 At export time, there are several different options you can toggle:
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/exportOptions@2x.jpg" width="502" height="299" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/exportOptions@2x.jpg" width="502" alt=""/>
 
 ##### Export Options  
 
@@ -2561,7 +2561,7 @@ When exporting to these formats, the duration defaults to the time it will take 
 
 Note that any audio embedded in your document is not included in your export. Also note that video exporting is only supported on OS X 10.7 “Lion” and later. For information on capturing audio please [view this forum post](https://forums.tumult.com/t/exporting-video-with-sound-creating-a-screencast/1131).
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/exportasMovie@2x.png" width="753" height="626" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/exportasMovie@2x.png" width="753" alt=""/>
 
 ##### Export as Movie Dialog
 
@@ -2571,7 +2571,7 @@ In Tumult Hype Professional, you may choose the export bitrate & optionally expo
 
 When exporting as animated GIF, please keep in mind that the format only supports 256 colors. GIF file sizes increases as you have more colors, a higher framerate, and long animations.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/exportasGIF@2x.png" width="571" height="293" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/exportasGIF@2x.png" width="571" alt=""/>
 
 ##### Export as Animated GIF Dialog
 
@@ -2593,13 +2593,13 @@ Since Tumult Hype documents are built in HTML, Javascript, and CSS, they can be 
 
 A typical Hype export includes all scenes, layouts, and resources. Advanced Export gives you full control over what Scenes, Layouts, and Resources are included in your export, and provides advanced control for situations where you require small download sizes. Let's say you're working on a series of three advertisements: 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AdvancedExportLayouts@2x.png" width="286" height="351" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AdvancedExportLayouts@2x.png" width="286" alt=""/>
 
 ##### An example document containing three separate layouts
 
 When you open the Advanced Export window (File > Advanced Export…) you are presented with a list of export slices representing all scenes and layouts in your document. Each slice represents a separate Hype Export complete with its own html file, resources, and Hype JavaScript runtime. For our advertisement example, we can quickly create three separate HTML files from a single HTML document by exporting individual layouts: 
 
-<a href="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AdvancedExportPanel@2x.png" target="_blank"><img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AdvancedExportPanel@2x.png" width="894" height="685" alt=""/></a>
+<a href="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AdvancedExportPanel@2x.png" target="_blank"><img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/AdvancedExportPanel@2x.png" width="894" alt=""/></a>
 
 ##### The Advanced Export Panel
 
@@ -2737,7 +2737,7 @@ By default, Tumult Hype automatically deletes image and video resources when all
 
 **Editing Resources**: <a target="_blank" href="https://tumult.com/hype/pro/" class="profeatureinline">HYPE PRO ONLY</a> To edit resources in an external application, select an item and click the 'Edit In' button at the bottom of the resource library. Alternatively, you can hold ctrl while clicking on an editable resource in the library. This will show all applications that support editing that file type installed on your computer. Saving a resource in an external application will update the resource in your Hype document while your Hype document remains open. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/resources-edit-in@2x.png" width="418" height="535" alt="edit in an external application"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/resources-edit-in@2x.png" width="418" alt="edit in an external application"/>
 
 ##### Editing an image in an external application
 
@@ -2773,7 +2773,7 @@ The poster image may be used a fallback or 'polite load' image for advertising n
 
 To capture a poster image for a scene or layout, adjust the playhead to a point in your document you want to capture and click Capture Current Scene in the Document Inspector. You may also click the '+' button and 'Poster Image' at the bottom of the Resource Library. Next, click Capture. Capturing your first poster image will generate a new group in the Resource Library. You may also select the 'Add Image...' button to use an image on your computer. 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/resource-poster@2x.png" width="282" height="212" alt="Image Poster in the Resources Library"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/resource-poster@2x.png" width="282" alt="Image Poster in the Resources Library"/>
 
 ##### A Poster Image in the Resources Library  
 
@@ -2843,7 +2843,7 @@ You may reference a poster image in your document by using the Resource folder v
 
 ### Creating a new JavaScript
 
-<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/JavaScriptNewFunction@2x.png" width="280" height="153" alt="Create a New JavaScript Function"/>
+<img src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/JavaScriptNewFunction@2x.png" width="280" alt="Create a New JavaScript Function"/>
 
 JavaScript functions within Tumult Hype are generally run in response to user events. In any action panel, such as the panels found in the Mouse Actions inspector, create a JavaScript function by following these steps:
 
@@ -2871,7 +2871,7 @@ The Documentation Viewer below the editing area can be helpful for quickly build
 
 Functions can also be inserted by dragging-and-dropping them from the functions listing or by double-clicking their row.
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/JavaScriptDocumentationViewer@2x.png" width="835" height="340" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/JavaScriptDocumentationViewer@2x.png" width="835" alt=""/>
 
 ##### The JavaScript Documentation Viewer
 
@@ -3498,7 +3498,7 @@ Inspectors are accessible from the View menu, or by clicking the Inspector toolb
 
 ## Document Inspector
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector4-document@2x.png" width="261" height="777" alt=""/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector4-document@2x.png" width="261" alt=""/>
 
 The Document inspector provides many controls for initial document setup.
 
@@ -3520,7 +3520,7 @@ The Document inspector provides many controls for initial document setup.
 
 **Mobile Options** – These options create meta tags and properties in the `<head>` of the exported .html page. Meta tags appear uneditable in the 'Head HTML' area: 
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/mobile-options-head-html@2x.png" width="1043" height="288" alt=""/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/mobile-options-head-html@2x.png" width="1043" alt=""/>
 
 - **Viewport** – Choosing 'Document Width' sets the document’s viewport to match your document’s pixel width. Device Width and Device Height define the exported document’s viewport to match the viewing screen’s width or height. Choosing 'Don’t Set' excludes any viewport tag from your document’s exported content. [Learn more about the viewport meta tag](https://developer.mozilla.org/docs/Web/HTML/Viewport_meta_tag). 
 - **Initial Scale 1.0** – Selecting this option adds the “initial-scale=1.0” property to the exported page’s viewport.
@@ -3535,7 +3535,7 @@ The Document inspector provides many controls for initial document setup.
 ## Scene Inspector
 
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector4-scene@2x.png" width="263" height="1012" alt=""/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector4-scene@2x.png" width="263" alt=""/>
 
 **Document Size**
 
@@ -3568,7 +3568,7 @@ This area displays the timelines on the current scene, their duration, and toggl
 
 Hype replaces the Scene inspector with the Symbol inspector when you are actively editing a symbol's content. Double click a symbol to enter editing mode and display this inspector.
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-symbol@2x.png" width="270" height="773" alt=""/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-symbol@2x.png" width="270" alt=""/>
 
 
 ### Type
@@ -3581,7 +3581,7 @@ Hype replaces the Scene inspector with the Symbol inspector when you are activel
 
 ## Metrics Inspector
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-metrics@2x.png" width="268" height="876" alt=""/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-metrics@2x.png" width="268" alt=""/>
 
 The Metrics inspector controls size, content overflow behavior, placement, and rotation properties of selected elements. While rotation, position, and scaling can all be manipulated directly in the scene area with mouse controls, this inspector offers fine tuning and may be more useful during multiple selection.
 
@@ -3616,7 +3616,7 @@ Sets the X, Y, and Z rotation angles. At this time only one rotation angle may b
 
 <a href="https://tumult.com/hype/pro" alt="Learn More" title="Learn More" class="profeature">HYPE PRO ONLY<br><div class="profeaturebottom"></div></a>
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector4-vector-shape@2x.png" width="260" height="600" alt="vector shape inspector"/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector4-vector-shape@2x.png" width="260" alt="vector shape inspector"/>
 
 The [Vector Shape](#vector-shapes) inspector controls all options associated with vector shapes such as anchor point properties, path options, background color and border fill properties, line cap, line join, line draw, and line dash for your vector shapes. The inspector appears when editing a vector shape. 
 
@@ -3647,7 +3647,7 @@ For more detailed information, view [Path Options](#path-options).
 
 <a href="https://tumult.com/hype/pro" alt="Learn More" title="Learn More" class="profeature">HYPE PRO ONLY<br><div class="profeaturebottom"></div></a>
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-pencil@2x.png" width="270" height="588" alt=""/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-pencil@2x.png" width="270" alt=""/>
 
 The Pencil inspector appears when the pencil tool is selected. When double clicking on a penciled line, the vector shape tool inspector appears. 
 
@@ -3663,7 +3663,7 @@ Please see the [Vector Shape Inspector](#vector-shape-inspector) for information
 
 ## Element Inspector
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-element@2x.png" width="263" height="878" alt=""/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-element@2x.png" width="263" alt=""/>
 
 The Element inspector contains stylistic properties for the selected element or elements.
 
@@ -3690,7 +3690,7 @@ CSS3 filters perform a variety of powerful image rendering effects. [Read more a
  
 ## Typography Inspector
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-text@2x.png" width="270" height="588" alt="Typography Inspector"/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-text@2x.png" width="270" alt="Typography Inspector"/>
 
 The Typography inspector controls text formatting including font selection, colors, alignment, shadows and spacing properties.
 
@@ -3708,7 +3708,7 @@ For more information about Fonts, see the [Typography](#typography) chapter.
 
 ## Actions Inspector
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-actions@2x.png" width="270" height="528" alt="Actions Inspector"/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-actions@2x.png" width="270" alt="Actions Inspector"/>
 
 **Pointer** 
 
@@ -3724,7 +3724,7 @@ The actions listed occur based on what element or elements have been selected.
 
 The Physics Inspector controls physics properties of the selected elements or scene.
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-physics@2x.png" width="272" height="319" alt="Physics Inspector"/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-physics@2x.png" width="272" alt="Physics Inspector"/>
 
 ### Element Physics
 
@@ -3747,7 +3747,7 @@ The Physics Inspector controls physics properties of the selected elements or sc
 ## Identity Inspector
 
 
-<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-identity@2x.png" width="269" height="598" alt="Identity Inspector"/>
+<img class="inspector" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/inspector-identity@2x.png" width="269" alt="Identity Inspector"/>
 
 The Identity inspector provides access to metadata for elements and information for screen reading technologies. To learn more about Accessibility options in Hype, read the [Accessibility](#accessibility) chapter. 
 
@@ -3782,7 +3782,7 @@ HTML Attributes are useful for setting custom attributes for any  element in Hyp
 
 ## General Preferences
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-general@2x.jpg" width="296" height="191" alt="Hype's General Preferences"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-general@2x.jpg" width="296" alt="Hype's General Preferences"/>
 
 ##### Hype's General Preferences
 
@@ -3795,7 +3795,7 @@ HTML Attributes are useful for setting custom attributes for any  element in Hyp
 
 ## Interface Preferences
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-interface@2x.jpg" width="296" height="374" alt="Hype's Interface Preferences"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-interface@2x.jpg" width="296" alt="Hype's Interface Preferences"/>
 
 ##### Hype's Interface Preferences
 
@@ -3818,7 +3818,7 @@ HTML Attributes are useful for setting custom attributes for any  element in Hyp
 
 ## Devices Preferences
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-devices@2x.jpg" width="296" height="260" alt="Hype's Devices Preferences"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-devices@2x.jpg" width="296" alt="Hype's Devices Preferences"/>
 
 ##### Hype's Devices Preferences
 
@@ -3829,7 +3829,7 @@ After a device is previewed to, it will stay in the Preview menu, even when the 
 
 ### Exporting Preferences
 
-<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-exporting@2x.jpg" width="296" height="191" alt="Hype's Exporting Preferences"/>
+<img class="center" src="https://raw.githubusercontent.com/tumult/hype-documentation/refs/heads/main/images/preferences-exporting@2x.jpg" width="296" alt="Hype's Exporting Preferences"/>
 
 ##### Hype's Exporting Preferences
 

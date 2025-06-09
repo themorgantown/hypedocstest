@@ -321,6 +321,18 @@ def process_markdown_document_links(content):
     
     return re.sub(markdown_doc_pattern, replace_markdown_doc_link, content)
 
+def remove_image_height_dimensions(content):
+    """Remove height attributes from all img tags."""
+    # Pattern to match height attributes in img tags
+    height_pattern = r'(<img[^>]*)\s+height="[^"]*"([^>]*>)'
+    
+    def replace_height(match):
+        before_height = match.group(1)
+        after_height = match.group(2)
+        return before_height + after_height
+    
+    return re.sub(height_pattern, replace_height, content)
+
 def combine_markdown_files():
     """Combine all .md files in the current directory into a single markdown file."""
     
@@ -376,6 +388,9 @@ def combine_markdown_files():
                     content = process_markdown_document_links(content)
                     content = process_image_paths(content)
                     content = process_markdown_document_links(content)
+                    
+                    # Remove height dimensions from images
+                    content = remove_image_height_dimensions(content)
                     
                     # Convert HTML tables to markdown tables
                     content = convert_html_tables_to_markdown(content)
